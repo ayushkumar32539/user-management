@@ -2,6 +2,10 @@
 
 This is a simple User Management Application built using React and Material-UI. It allows users to create, edit, and delete posts.
 
+## Hosted Link
+
+https://ayush-user-management.netlify.app/
+
 ## Features
 
 - Create new posts with a title and body
